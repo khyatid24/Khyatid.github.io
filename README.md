@@ -30,5 +30,5 @@
 - Phone number: 469-588-0883
 
 ## Connect With me 
-- Github: https://github.com/khyatid24
-- Linkedin: https://www.linkedin.com/in/khyatidesai24/
+- Github: [Link](https://github.com/khyatid24)
+- Linkedin: [Link](https://www.linkedin.com/in/khyatidesai24/)
